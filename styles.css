@@ -148,3 +148,13 @@ footer {
     font-size: 16px;
     cursor: pointer;
 }
+footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 20px;
+}
+
+footer p {
+    margin: 0;
+}
