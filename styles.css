@@ -125,10 +125,14 @@ footer {
     color: #1F2937;
 }
 .cta {
+    
     background-color: #3882F6;
     color: #F9FAF8;
     text-align: center;
     padding: 50px;
+    margin: 50px;
+    border-radius: 10px; 
+
 }
 
 .cta h2 {
