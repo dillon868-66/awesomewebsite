@@ -124,3 +124,27 @@ footer {
     font-size: 18px;
     color: #1F2937;
 }
+.cta {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    text-align: center;
+    padding: 50px;
+}
+
+.cta h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.cta p {
+    margin-bottom: 20px;
+}
+
+.cta button {
+    background-color: #ffffff;
+    color: #3882F6;
+    border: none;
+    padding: 15px 30px;
+    font-size: 16px;
+    cursor: pointer;
+}
