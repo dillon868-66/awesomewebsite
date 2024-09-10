@@ -82,3 +82,28 @@ nav ul li a {
     justify-content: center;
     color: #555555;
 }
+.information {
+    padding: 50px;
+    background-color: #ffffff;
+    color: #1F2937;
+    text-align: center;
+}
+
+.information h2 {
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.info-cards {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.info-card {
+    background-color: #ffffff;
+    border: 2px solid #3882F6;
+    padding: 20px;
+    width: 20%;
+    box-sizing: border-box;
+}
